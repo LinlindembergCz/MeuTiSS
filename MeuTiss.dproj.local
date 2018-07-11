@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/05 21:15:31.000.826,=C:\Users\berg\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/07/05 22:12:55.000.332,D:\Lindemberg\MeuTiss\uGuiaSADT.pas=C:\Users\berg\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/07/05 22:12:55.000.332,D:\Lindemberg\MeuTiss\uGuiaSADT.dfm=C:\Users\berg\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2018/07/05 22:13:01.000.523,D:\Lindemberg\MeuTiss\MeuTiss.dproj=C:\Users\berg\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2018/07/08 21:09:21.000.301,=D:\Lindemberg\MeuTiss\tissLoteGuiasV3_03_03.pas</Transaction>
+    <Transaction>2018/07/08 21:39:24.000.872,D:\Lindemberg\MeuTiss\tissLoteGuiasV3_03_03.pas=</Transaction>
+    <Transaction>2018/07/08 21:41:20.000.445,=D:\Lindemberg\MeuTiss\WebService\tissSolicitacaoProcedimento_AMIL.pas</Transaction>
+    <Transaction>2018/07/08 21:41:20.000.619,=D:\Lindemberg\MeuTiss\WebService\tissSolicitacaoStatusAutorizacao_AMIL.pas</Transaction>
+    <Transaction>2018/07/08 21:41:20.000.662,=D:\Lindemberg\MeuTiss\WebService\tissVerificaElegibilidade_AMIL.pas</Transaction>
+    <Transaction>2018/07/08 21:41:20.000.255,=D:\Lindemberg\MeuTiss\WebService\tissCancelaGuia_AMIL.pas</Transaction>
+    <Transaction>2018/07/08 21:48:41.000.132,D:\Lindemberg\MeuTiss\WebService\tissSolicitacaoProcedimento_AMIL.pas=</Transaction>
+    <Transaction>2018/07/08 21:48:41.000.043,D:\Lindemberg\MeuTiss\WebService\tissVerificaElegibilidade_AMIL.pas=</Transaction>
+    <Transaction>2018/07/08 21:48:41.000.152,D:\Lindemberg\MeuTiss\WebService\tissCancelaGuia_AMIL.pas=</Transaction>
+    <Transaction>2018/07/08 21:48:41.000.087,D:\Lindemberg\MeuTiss\WebService\tissSolicitacaoStatusAutorizacao_AMIL.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,119 @@
+	<ansTISS:mensagemTISS xmlns:ansTISS="http://www.ans.gov.br/padroes/tiss/schemas">
+		<ansTISS:cabecalho>
+			<ansTISS:identificacaoTransacao>
+				<ansTISS:tipoTransacao>ENVIO_LOTE_GUIAS</ansTISS:tipoTransacao>
+				<ansTISS:sequencialTransacao>1</ansTISS:sequencialTransacao>
+				<ansTISS:dataRegistroTransacao>2018-07-05</ansTISS:dataRegistroTransacao>
+				<ansTISS:horaRegistroTransacao>18:42:31</ansTISS:horaRegistroTransacao>
+			</ansTISS:identificacaoTransacao>
+			
+			<ansTISS:origem>
+				<ansTISS:identificacaoPrestador>
+					<ansTISS:codigoPrestadorNaOperadora>44631669</ansTISS:codigoPrestadorNaOperadora>
+				</ansTISS:identificacaoPrestador>
+			</ansTISS:origem>
+			
+			<ansTISS:destino>
+				<ansTISS:registroANS>326305</ansTISS:registroANS>
+			</ansTISS:destino>
+			
+			<ansTISS:Padrao>3.03.01</ansTISS:Padrao>
+		</ansTISS:cabecalho>
+		
+		<ansTISS:prestadorParaOperadora>
+			<ansTISS:loteGuias>
+				<ansTISS:numeroLote>4067729</ansTISS:numeroLote>
+				<ansTISS:guiasTISS>	
+					<ansTISS:guiaSP-SADT>
+						<ansTISS:cabecalhoGuia>
+							<ansTISS:registroANS>326305</ansTISS:registroANS>
+							<ansTISS:numeroGuiaPrestador>7139216</ansTISS:numeroGuiaPrestador>
+						</ansTISS:cabecalhoGuia>
+						
+						<ansTISS:dadosAutorizacao>
+							<ansTISS:dataAutorizacao>2017-07-05</ansTISS:dataAutorizacao>
+							<ansTISS:senha>EX2017013639617</ansTISS:senha>
+							<ansTISS:dataValidadeSenha>2018-01-01</ansTISS:dataValidadeSenha>
+						</ansTISS:dadosAutorizacao>
+						
+						<ansTISS:dadosBeneficiario>
+							<ansTISS:numeroCarteira>130666912</ansTISS:numeroCarteira>
+							<ansTISS:atendimentoRN>N</ansTISS:atendimentoRN>
+							<ansTISS:nomeBeneficiario>CHARLES NOBREGA</ansTISS:nomeBeneficiario>
+						</ansTISS:dadosBeneficiario>
+						
+						<ansTISS:dadosSolicitante>
+							<ansTISS:contratadoSolicitante>
+								<ansTISS:codigoPrestadorNaOperadora>39772616</ansTISS:codigoPrestadorNaOperadora>
+								<ansTISS:nomeContratado>INSTITUTO DO SONO E TRANSTORNOS MENTAIS</ansTISS:nomeContratado>
+							</ansTISS:contratadoSolicitante>
+						
+							<ansTISS:profissionalSolicitante>				
+								<ansTISS:nomeProfissional>BRUNO MOURA LACERDA</ansTISS:nomeProfissional>
+								<ansTISS:conselhoProfissional>06</ansTISS:conselhoProfissional>
+								<ansTISS:numeroConselhoProfissional>6807</ansTISS:numeroConselhoProfissional>
+								<ansTISS:UF>24</ansTISS:UF>
+								<ansTISS:CBOS>225133</ansTISS:CBOS>
+							</ansTISS:profissionalSolicitante>
+						</ansTISS:dadosSolicitante>
+						
+						<ansTISS:dadosSolicitacao>
+							<ansTISS:caraterAtendimento>1</ansTISS:caraterAtendimento>
+						</ansTISS:dadosSolicitacao>
+						
+						<ansTISS:dadosExecutante>
+							<ansTISS:contratadoExecutante>
+								<ansTISS:codigoPrestadorNaOperadora>44631669</ansTISS:codigoPrestadorNaOperadora>
+								<ansTISS:nomeContratado>INSTITUTO DO SONO E TRANSTORNOS MENTAIS</ansTISS:nomeContratado>
+							</ansTISS:contratadoExecutante>
+							<ansTISS:CNES>9999999</ansTISS:CNES>
+						</ansTISS:dadosExecutante>
+						
+						<ansTISS:dadosAtendimento>
+							<ansTISS:tipoAtendimento>05</ansTISS:tipoAtendimento>
+							<ansTISS:indicacaoAcidente>9</ansTISS:indicacaoAcidente>
+						</ansTISS:dadosAtendimento>
+						
+						<ansTISS:procedimentosExecutados>
+							<ansTISS:procedimentoExecutado>
+								<ansTISS:dataExecucao>2017-07-05</ansTISS:dataExecucao>
+								<ansTISS:procedimento>
+									<ansTISS:codigoTabela>22</ansTISS:codigoTabela>
+									<ansTISS:codigoProcedimento>40103196</ansTISS:codigoProcedimento>
+									<ansTISS:descricaoProcedimento>Eegq Quantitativo (Mapeamento Cerebral)</ansTISS:descricaoProcedimento>
+								</ansTISS:procedimento>
+								<ansTISS:quantidadeExecutada>1</ansTISS:quantidadeExecutada>
+								<ansTISS:viaAcesso>1</ansTISS:viaAcesso>
+								<ansTISS:tecnicaUtilizada>1</ansTISS:tecnicaUtilizada>
+								<ansTISS:reducaoAcrescimo>1.00</ansTISS:reducaoAcrescimo>
+								<ansTISS:valorUnitario>130.00</ansTISS:valorUnitario>
+								<ansTISS:valorTotal>130.00</ansTISS:valorTotal>
+								<ansTISS:equipeSadt>
+									<ansTISS:grauPart>12</ansTISS:grauPart>
+									<ansTISS:codProfissional>
+										<ansTISS:codigoPrestadorNaOperadora>45128669</ansTISS:codigoPrestadorNaOperadora>
+									</ansTISS:codProfissional>
+									<ansTISS:nomeProf>BRUNO MOURA LACERDA</ansTISS:nomeProf>
+									<ansTISS:conselho>06</ansTISS:conselho>
+									<ansTISS:numeroConselhoProfissional>6807</ansTISS:numeroConselhoProfissional>
+									<ansTISS:UF>24</ansTISS:UF>
+									<ansTISS:CBOS>225133</ansTISS:CBOS>
+								</ansTISS:equipeSadt>
+							</ansTISS:procedimentoExecutado>					
+						</ansTISS:procedimentosExecutados>
+						
+						<ansTISS:valorTotal>
+							<ansTISS:valorProcedimentos>130.00</ansTISS:valorProcedimentos>
+							<ansTISS:valorTotalGeral>130.00</ansTISS:valorTotalGeral>
+						</ansTISS:valorTotal>
+						
+					</ansTISS:guiaSP-SADT>
+				</ansTISS:guiasTISS>
+			</ansTISS:loteGuias>		
+		</ansTISS:prestadorParaOperadora>
+		
+		<ansTISS:epilogo>
+			<ansTISS:hash>733ecc3f3dfe45f4b7d95ccecbcb8879</ansTISS:hash>
+		</ansTISS:epilogo>
+		
+	</ansTISS:mensagemTISS>
